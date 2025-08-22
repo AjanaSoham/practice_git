@@ -46,5 +46,7 @@ class Current extends Account {
 }
 
 public class FullBank {
+    Scanner sc = new Scanner(System.in);
     
+
 }
